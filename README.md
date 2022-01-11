@@ -15,3 +15,7 @@ Les informations de mon profil GitHub et mes statistiques
 **Discord** -> [discord/CSM](https://dsc.gg/csmteam)
 
 **Instagram** -> [instgram/CSMTeam](https://www.instagram.com/csmteam_officiel/)
+
+<hr>
+<img src="https://wallpapercave.com/wp/wp4575272.jpg">
+<hr>
