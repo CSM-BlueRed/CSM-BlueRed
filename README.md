@@ -2,7 +2,7 @@
 Les informations de mon profil GitHub et mes statistiques
 
 <hr>
-[![Bannière](https://wallpapercave.com/wp/wp3831604.jpg)
+<img src="https://wallpapercave.com/wp/wp3831604.jpg">
 <hr>
 
 ## <p align="center">↗ GITHUB STATS ↗</p>
