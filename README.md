@@ -1,5 +1,7 @@
 # <p align="center">CSM-BlueRed_</p>
+
 <p align="center">discord.gg/zfk</p>
+
 ## <p align="center">↗ GITHUB STATS ↗</p>
 
 [![Stats](https://github-readme-stats.vercel.app/api/?username=CSM-BlueRed&count_private=true&theme=tokyonight&showicons=true)]()
