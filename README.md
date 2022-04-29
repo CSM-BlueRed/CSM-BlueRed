@@ -37,3 +37,8 @@ class BlueRed {
 <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=CSM-BlueRed&theme=github-dark-blue&hide_border=true">
 </div>
+
+<h1 align="center">👑 LINKS & TAGS 📂</h1>
+![https://img.shields.io/static/v1?label=YouTube&message=CSM BlueRed&color=red](https://www.youtube.com/channel/UCWlvihS81r_wbysgg2J87Kw)
+![https://img.shields.io/static/v1?label=Discord&message=!" BlueRed_. 6879&color=blue](https://discord.gg/zfk)
+![https://img.shields.io/static/v1?label=Github&message=CSM-BlueRed&color=black](https://github.com/CSM-BlueRed)
