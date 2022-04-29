@@ -1,7 +1,9 @@
-# <p align="center">CSM-BlueRed_</p>
+<h1 align="center">CSM-BlueRed_</h1>
 
-<p align="center">discord.gg/zfk</p>
+<code align="center">
 
-## <p align="center">↗ GITHUB STATS ↗</p>
+</code>
+
+<h2 align="center">STATS</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CSM-BlueRed&layout=compact&theme=omni&show_icons=true)
