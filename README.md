@@ -1,4 +1,6 @@
-<h1 align="center"><span style="color:green;">CSM-BlueRed_</span></h1>
+<h1 align="center">CSM-BlueRed_ 👋</h1>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSM-BlueRed&layout=compact&theme=omni&show_icons=true">
 
 ```python
 class BlueRed():
@@ -9,7 +11,6 @@ class BlueRed():
 
     def __gt__(self, other) -> bool: return True
 ```
+**Hey, I'm BlueRed. I'm a Python developper and want to learn Java or C. If you want to play or code with me, [contact me on Discord](https://discord.gg/zfk).**
 
-<h2 align="center">STATS</h2>
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CSM-BlueRed&layout=compact&theme=omni&show_icons=true)
+* lol
