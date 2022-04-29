@@ -1,4 +1,4 @@
-<h1 align="center">CSM-BlueRed_</h1>
+<h1 align="center"><span style="color:red;">CSM-BlueRed_</span></h1>
 
 ```python
 class BlueRed():
