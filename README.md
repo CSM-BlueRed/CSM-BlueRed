@@ -11,7 +11,8 @@ class BlueRed():
 
     def __gt__(self, other) -> bool: return True
 ```
-<p align="left">**Hey, I'm BlueRed. I'm a Python developper and want to learn Java or C. If you want to play or code with me, [contact me on Discord](https://discord.gg/zfk).**</p>
+
+<p align="right">**Hey, I'm BlueRed. I'm a Python developper and want to learn Java or C. If you want to play or code with me, [contact me on Discord](https://discord.gg/zfk).**</p>
 
 ```java
 class BlueRed {
