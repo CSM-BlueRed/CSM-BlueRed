@@ -39,6 +39,4 @@ class BlueRed {
 </div>
 
 <h1 align="center">👑 LINKS & TAGS 📂</h1>
-<img align="center" src="https://img.shields.io/static/v1?label=YouTube&message=CSM BlueRed&color=red">
-<img align="center" src="https://img.shields.io/static/v1?label=Discord&message=!' BlueRed_. 6879&color=blue">
-<img align="center" src="https://img.shields.io/static/v1?label=Github&message=CSM-BlueRed&color=black">
+<img align="center" src="https://img.shields.io/static/v1?label=YouTube&message=CSM BlueRed&color=red"><img align="center" src="https://img.shields.io/static/v1?label=Discord&message=!' BlueRed_. 6879&color=blue"><img align="center" src="https://img.shields.io/static/v1?label=Github&message=CSM-BlueRed&color=black">
