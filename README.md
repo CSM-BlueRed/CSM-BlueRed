@@ -1,9 +1,14 @@
 <h1 align="center">CSM-BlueRed_</h1>
 
-<code align="center">
-class Lol:
-  ...
-</code>
+```python
+class BlueRed():
+    def __init__(self) -> None:
+        self.name = 'BlueRed'
+        self.link = 'discord./gg/zfk'
+        self.about = 'Python developper'
+
+    def __gt__(self, other) -> bool: return True
+```
 
 <h2 align="center">STATS</h2>
 
