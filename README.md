@@ -1,7 +1,8 @@
 <h1 align="center">CSM-BlueRed_</h1>
 
 <code align="center">
-
+class Lol:
+  ...
 </code>
 
 <h2 align="center">STATS</h2>
