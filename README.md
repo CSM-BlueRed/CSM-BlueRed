@@ -1,6 +1,6 @@
 <h1 align="center">CSM-BlueRed_ 👋</h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSM-BlueRed&layout=compact&theme=omni&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSM-BlueRed&theme=codeSTACKr&show_icons=true">
 
 ```python
 class BlueRed():
@@ -12,7 +12,9 @@ class BlueRed():
     def __gt__(self, other) -> bool: return True
 ```
 
-<p align="right">**Hey, I'm BlueRed. I'm a Python developper and want to learn Java or C. If you want to play or code with me, [contact me on Discord](https://discord.gg/zfk).**</p>
+<img align="left" src="https://www.pikpng.com/pngl/b/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" width="100">
+
+**Hey, I'm BlueRed. I'm a Python developper and want to learn Java or C. If you want to play or code with me, [contact me on Discord](https://discord.gg/zfk).**
 
 ```java
 class BlueRed {
@@ -30,3 +32,8 @@ class BlueRed {
     }
 }
 ```
+
+<h1 align="center">⚔ STATS 🛡</h1>
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=CSM-BlueRed&theme=github-dark-blue&hide_border=true">
+</div>
