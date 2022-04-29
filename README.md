@@ -13,4 +13,19 @@ class BlueRed():
 ```
 **Hey, I'm BlueRed. I'm a Python developper and want to learn Java or C. If you want to play or code with me, [contact me on Discord](https://discord.gg/zfk).**
 
-* lol
+```java
+class BlueRed implements Comparable<BlueRed> {
+    public BlueRed() {
+        this.name = "BlueRed";
+        this.link = "discord.gg/zfk";
+        this.about = "Python developper";
+    }
+    public String name;
+    public String link;
+    public String about;
+
+    public boolean compareTo(BlueRed other) {
+        return true;
+    }
+}
+```
