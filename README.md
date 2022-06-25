@@ -1,43 +1,37 @@
-<h1 align="center">CSM-BlueRed_ 👋</h1>
+# Hey 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSM-BlueRed&theme=codeSTACKr&show_icons=true">
+Welcome to my Github profile, I'm BlueRed. I'm a Python developper and want to learn Java or C.<br>
+If you want to code with me, contact me on Discord. I really like cybersecurity and programming.<br>
+I do many projects, like [Pystyle](https://pepy.tech/project/pystyle) and [Hyperion](https://obf.plague.fun).
+I currently learning C prgramming language (10%).<br>
+Feel free to create something with me! I have also a [Discord server](https://discord.gg/j6n4599RXd) (⭐ Developing Community).<br>
+In it, you can share your projects (must be about developpement), and find a lot of programmers.<br>
+To support me, Star my projects, and subscrible to me! So i'll let you look at my profile and repos!
 
 ```python
-class BlueRed():
-    def __init__(self) -> None:
-        self.name = 'BlueRed'
-        self.link = 'discord.gg/zfk'
-        self.about = 'Python developper'
+class BlueRed(dev):
+    r""">
+    # BlueRed
+    Just a Python developper
+    >>> BlueRed().sub()
+    """
+    def __init__(self) -> None: self.name, self.about = 'BlueRed', 'Python developper'
 
     def __gt__(self, other) -> bool: return True
 ```
 
-<img align="left" src="https://www.pikpng.com/pngl/b/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" width="100">
-
-**Hey, I'm BlueRed. I'm a Python developper and want to learn Java or C. If you want to play or code with me, [contact me on Discord](https://discord.gg/zfk).**
-
-```java
-class BlueRed {
-    public BlueRed() {
-        this.name = "BlueRed";
-        this.link = "discord.gg/zfk";
-        this.about = "Python developper";
-    }
-    public String name;
-    public String link;
-    public String about;
-
-    public boolean compareTo(BlueRed other) {
-        return true;
-    }
-}
+# 👒 SOCIAL MEDIAS
+```js
+/*
+ * @tiktok BlueRed_ tiktok.com/@bluered_py
+ * @youtube CSM BlueRed youtube.com/channel/UCWlvihS81r_wbysgg2J87Kw
+ */
 ```
 
-<h1 align="center">⚔ STATS 🛡</h1>
-<div align="center">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=CSM-BlueRed&theme=github-dark-blue&hide_border=true">
-</div>
+# 💪 GOOD REPOS
 
-<h1 align="center">📌 Projects 📌</h1>
-<img align="center" src="https://gh-card.dev/repos/CSM-BlueRed/Impostor.svg?fullname">
-<img align="center" src="https://gh-card.dev/repos/billythegoat356/pystyle.svg?fullname">
+100% Python obfuscator: https://github.com/billythegoat356/hyperion *(by me and the author of the git)* <br>
+Python compiler: https://github.com/Nuitka/Nuitka *(work on any Python versions)* <br>
+Python tui/style lib: https://github.com/billythegoat356/pystyle *(by me, the author of the git and Lotus)* <br>
+Python obfuscator: https://github.com/dashingsoft/pyarmor *(not working in all Python versions)* <br>
+Python unless compiler: https://github.com/pyinstaller/pyinstaller *(can be decompiled)* <br>
