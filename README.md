@@ -10,7 +10,7 @@ To support me, Star my projects, and subscrible to me! So i'll let you look at m
 
 ```python
 class BlueRed(dev):
-    r""">
+    r"""
     # BlueRed
     Just a Python developper
     >>> BlueRed().sub()
