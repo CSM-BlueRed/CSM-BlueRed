@@ -9,6 +9,8 @@ In it, you can share your projects (must be about developpement), and find a lot
 To support me, Star my projects, and subscrible to me! So i'll let you look at my profile and repos!
 
 ```python
+class dev: ...
+
 class BlueRed(dev):
     r"""
     # BlueRed
@@ -20,15 +22,14 @@ class BlueRed(dev):
         self.about = 'Python developper'
         self.age = 13
         self.infos = {
-            key: value for key, value in self.__dict__
-            if key in ['name', 'about', 'age']
-        } | {'devSkills', self.devSkills}
+            key: value for key, value in [(key, value) for key, value in self.__dict__.items()] if key in ['name', 'about', 'age']
+        } | {'devSkills': self.devSkills}
   
     @property
     def devSkills(self) -> str:
         languages = [
             'Python', 'Lua',
-            'Javasript', list[str, ...]
+            'Javasript', tuple[str, ...]
         ]
         futureLanguages = ['c']
         return {'good': languages, 'currently-learning': futureLanguages}
