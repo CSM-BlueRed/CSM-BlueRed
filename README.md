@@ -15,9 +15,30 @@ class BlueRed(dev):
     Just a Python developper
     >>> BlueRed().sub()
     """
-    def __init__(self) -> None: self.name, self.about = 'BlueRed', 'Python developper'
+    def __init__(self) -> None:
+        self.name = 'BlueRed'
+        self.about = 'Python developper'
+        self.age = 13
+        self.infos = {
+            key: value for key, value in self.__dict__
+            if key in ['name', 'about', 'age']
+        } | {'devSkills', self.devSkills}
+  
+    @property
+    def devSkills(self) -> str:
+        languages = [
+            'Python', 'Lua',
+            'Javasript', list[str, ...]
+        ]
+        futureLanguages = ['c']
+        return {'good': languages, 'currently-learning': futureLanguages}
+        
+    @devSkills.deleter
+    def devSkills(self) -> None:
+        print('You cant...')
 
-    def __gt__(self, other) -> bool: return True
+    def __gt__(self, other) -> bool:
+        return True
 ```
 
 # 👒 SOCIAL MEDIAS
