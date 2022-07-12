@@ -1,12 +1,6 @@
 # Hey 👋
 
-Welcome to my Github profile, I'm BlueRed. I'm a Python developper and want to learn Java or C.<br>
-If you want to code with me, contact me on Discord. I really like cybersecurity and programming.<br>
-I do many projects, like [Pystyle](https://pepy.tech/project/pystyle) and [Hyperion](https://obf.plague.fun).
-I currently learning C prgramming language (10%).<br>
-Feel free to create something with me! I have also a [Discord server](https://discord.gg/j6n4599RXd) (⭐ Developing Community).<br>
-In it, you can share your projects (must be about developpement), and find a lot of programmers.<br>
-To support me, Star my projects, and subscrible to me! So i'll let you look at my profile and repos!
+[![Discord Presence](https://lanyard.cnrad.dev/api/699359734427549736)](https://discord.com/users/699359734427549736)
 
 ```python
 class dev: ...
@@ -42,7 +36,6 @@ class BlueRed(dev):
         return True
 ```
 
-# 👒 SOCIAL MEDIAS
 ```js
 /*
  * @tiktok BlueRed_ tiktok.com/@bluered_py
