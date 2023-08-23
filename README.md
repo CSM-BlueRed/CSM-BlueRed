@@ -54,7 +54,3 @@ Console.WriteLine(info);
 Console.WriteLine("----- socials -----");
 Console.WriteLine(socials);
 ```
-
-
-![image](https://github.com/CSM-BlueRed/CSM-BlueRed/assets/89811976/8f43e332-2b68-4e22-a5f8-1cb209fecd2f)
-
